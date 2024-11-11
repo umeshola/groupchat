@@ -1,0 +1,34 @@
+{
+  "users": {
+    "user1": {
+      "userID": "user1"
+    },
+    "user2": {
+      "userID": "user2"
+    },
+    "user3": {
+      "userID": "user3"
+    },
+    "user4": {
+      "userID": "user4"
+    },
+    "user5": {
+      "userID": "user5"
+    },
+    "user6": {
+      "userID": "user6"
+    }
+  },
+  "groups": {
+    "g1": [
+      "user1",
+      "user3",
+      "user4"
+    ],
+    "g2": [
+      "user2",
+      "user5",
+      "user6"
+    ]
+  }
+}
